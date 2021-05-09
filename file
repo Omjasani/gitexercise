@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 this file
 modified the file
+<<<<<<< HEAD
 =======
 this is modified file
 >>>>>>> branch2
+=======
+this is modified file
+hello how are you
+hello stash
+>>>>>>> branch1
